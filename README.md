@@ -1,3 +1,7 @@
+## TypeSpec
+
+https://typespec.io/
+
 ## 出力
 
 ```shell
